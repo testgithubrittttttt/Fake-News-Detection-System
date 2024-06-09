@@ -51,7 +51,7 @@ Fake News Detection is a critical challenge in the era of digital information. T
 
 ## Installation
 - Clone the repository:
-  git clone https://github.com/yourusername/Fake-News-Detection.git cd Fake-News-Detection
+  git clone https://github.com/testgithubrittttttt/Fake-News-Detection.git cd Fake-News-Detection
 
 - Create and activate a virtual environment:
   Install the dependencies:
